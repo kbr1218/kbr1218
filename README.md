@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+👉<a href="https://kbr1218.github.io" target="_blank">KBR's Stacked Thoughts (새 창으로)</a>
 <!--
 **kbr1218/kbr1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
